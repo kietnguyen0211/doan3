@@ -1,0 +1,9 @@
+.slide{
+    overflow: hidden;
+    display: flex;
+}
+.slideContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
